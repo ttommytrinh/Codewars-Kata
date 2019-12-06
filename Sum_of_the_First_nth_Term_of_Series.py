@@ -1,6 +1,6 @@
 '''
 Task:
-Your task is to write a function which returns the sum of following series upto nth term(parameter).
+Your task is to write a function which returns the sum of following series upto nth term.
 Series: 1 + 1/4 + 1/7 + 1/10 + 1/13 + 1/16 +...
 
 Rules:
