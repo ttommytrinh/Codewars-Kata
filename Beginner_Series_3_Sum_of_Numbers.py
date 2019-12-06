@@ -3,7 +3,6 @@ Given two integers a and b, which can be positive or negative, find the sum of a
 If the two numbers are equal return a or b.
 '''
 
-
 def get_sum(a,b):
     sum = 0
     #when a is greater
